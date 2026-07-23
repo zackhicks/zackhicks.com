@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zackhicks.com/sitemap.xml
